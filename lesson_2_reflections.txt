@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+ The folder .git is created. Because it is necessary having the files under a version control system.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ It just has the files which the user wants to commit at once. It is great because you can add and commit specific files instead of everything that is inside your working directory.
+
+
