@@ -7,4 +7,5 @@ Because sometimes, working on a new branch, maybe updated files will create some
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are similar to clones but work only over remote repositories (GitHub). Clones can be used remoto to local or even local to local. Branches create new implementations of codes (it can be local or remote).
 
-
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It's good to have it because of the others collaborators changes that may conflict with your current job.
