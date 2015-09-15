@@ -13,4 +13,7 @@ It's good to have it because of the others collaborators changes that may confli
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use the tools I had. It wouldn't be necessary making mergings and solve conflicts but it would be hard to handdle different people collaborating without so good tool like GitHub
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+In large projects that is real necessary. The main part of the project keeps untouched until it's really necessary, besides it's possible to get the main project and transform for a specific purpose without affect the original one.
+
 
