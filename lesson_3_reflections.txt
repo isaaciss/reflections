@@ -9,3 +9,8 @@ Forks are similar to clones but work only over remote repositories (GitHub). Clo
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It's good to have it because of the others collaborators changes that may conflict with your current job.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use the tools I had. It wouldn't be necessary making mergings and solve conflicts but it would be hard to handdle different people collaborating without so good tool like GitHub
+
+
